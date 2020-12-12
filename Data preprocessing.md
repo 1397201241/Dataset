@@ -101,9 +101,7 @@ def deduplicate(filename):
 
 这里数据量比较大，跑得很慢
 
-![image-20201212133709381](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201212133709381.png)
-
-
+![image-20201212134852195](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201212134852195.png)
 
 ```python
 def get_categories(filename):
