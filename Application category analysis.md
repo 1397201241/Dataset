@@ -19,7 +19,9 @@ sns.heatmap(_2017, cmap='Reds',xticklabels=xlabelx,yticklabels=cates)
 plt.show()
 ```
 
-如图![image-20201217205612258](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201217205612258.png)
+![heat map](C:\Users\okey_upppp\Desktop\img\heat map.png)
+
+
 
 ### 2.CDF图
 
