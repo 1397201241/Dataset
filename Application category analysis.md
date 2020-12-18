@@ -33,7 +33,7 @@ def user_app_cate_num(filename):
             categories.append(len(row) - 1)
 ```
 
-![image-20201218145142920](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201218145142920.png)
+![categories.png](https://github.com/1397201241/img/blob/main/categories.png?raw=true)
 
 传入数据绘制CDF图
 
@@ -53,9 +53,9 @@ plt.ylabel('CDF')
 plt.show()
 ```
 
-如图
+如图![cdf.png](https://github.com/1397201241/img/blob/main/cdf.png?raw=true)
 
-![image-20201218145404645](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201218145404645.png)
+
 
 ### 3.绘制类别条形图
 
@@ -67,7 +67,5 @@ ax0.hist(categories,10,density=1,histtype='bar',facecolor='yellowgreen',alpha=0.
 plt.show()
 ```
 
-![image-20201218145558333](C:\Users\okey_upppp\AppData\Roaming\Typora\typora-user-images\image-20201218145558333.png)
-
-
+![Bar graph.png](https://github.com/1397201241/img/blob/main/Bar%20graph.png?raw=true)
 
