@@ -19,7 +19,7 @@ sns.heatmap(_2017, cmap='Reds',xticklabels=xlabelx,yticklabels=cates)
 plt.show()
 ```
 
-https://github.com/1397201241/img/blob/main/heat%20map.png
+![heat map.png](https://github.com/1397201241/img/blob/main/heat%20map.png?raw=true)
 
 ### 2.CDF图
 
